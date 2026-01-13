@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: ticklate
+  datasource:
+    url: jdbc:h2:mem:testdb;
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    # show-sql: true // uncomment to see the SQL queries
+
+  h2:
+    console:
+      enabled: true
