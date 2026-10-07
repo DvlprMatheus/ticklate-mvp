@@ -2,7 +2,7 @@
 
 ## 📋 Sobre o Projeto
 
-**Ticklate** é um **MVP (Minimum Viable Product)** de uma aplicação desenvolvida em **Spring Boot** que tem como objetivo gerenciar tarefas agendadas e verificar periodicamente se essas tarefas estão vencidas, enviando notificações quando necessário.
+**Ticklate** é um **MVP** de uma aplicação desenvolvida em **Spring Boot** que tem como objetivo gerenciar tarefas agendadas e verificar periodicamente se essas tarefas estão vencidas, enviando notificações quando necessário.
 
 Este projeto foi construído seguindo os **princípios SOLID** e uma arquitetura em camadas (Clean Architecture), demonstrando boas práticas de design de software e separação de responsabilidades.
 
